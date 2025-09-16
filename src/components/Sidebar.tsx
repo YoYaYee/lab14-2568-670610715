@@ -38,7 +38,7 @@ export default function Sidebar() {
             color="red"
             withBorder
           >
-            <Avatar size="md" radius="xl" src="/loma.jpeg" />
+            <Avatar size="md" radius="xl" src="/photo.jpeg" />
           </Indicator>
           <Text component={RouterNavLink} to="/">
             User : Pawornpruch : Student
